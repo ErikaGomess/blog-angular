@@ -71,4 +71,4 @@ blog-angular/
 ## 👩‍💻 Desenvolvido por
 
 Erika de Jesus Gomes  
-🔗 [LinkedIn](https://www.linkedin.com/) | ✉️ erikadev@email.com
+🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/erika-de-jesus-gomes-89a3b31b3/)) | ✉️ erikagomes1407@gmail.com
