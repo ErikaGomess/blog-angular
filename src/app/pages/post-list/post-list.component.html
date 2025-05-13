@@ -1,0 +1,16 @@
+<div class="container">
+    <h2 class="mb-4 text-primary">Últimos posts</h2>
+  
+    <div *ngIf="isLoading" class="text-center">
+      <p>Carregando posts...</p>
+    </div>
+  
+    <div *ngIf="!isLoading && posts.length > 0">
+      <app-post-card *ngFor="let post of posts" [post]="post" />
+    </div>
+  
+    <div *ngIf="!isLoading && posts.length === 0" class="text-center text-muted">
+      <p>Nenhum post encontrado.</p>
+    </div>
+  </div>
+  
